@@ -1,6 +1,7 @@
 {
-    "name": "petschko/dhl-php-sdk",
-    "description": "DHL SDK",
+    "name": "pfandie/dhl-php-sdk",
+    "version": "1.0.0",
+    "description": "fork of the DHL SDK from petschko",
     "type": "library",
     "license": "MIT",
     "authors": [
